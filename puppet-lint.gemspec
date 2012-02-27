@@ -17,6 +17,7 @@ Gem::Specification.new do |s|
     'lib/puppet-lint/plugins/check_strings.rb',
     'lib/puppet-lint/plugins/check_variables.rb',
     'lib/puppet-lint/plugins/check_whitespace.rb',
+    'lib/puppet-lint/plugins/check_comments.rb',
     'lib/puppet-lint/plugins.rb',
     'lib/puppet-lint/tasks/puppet-lint.rb',
     'lib/puppet-lint.rb',
